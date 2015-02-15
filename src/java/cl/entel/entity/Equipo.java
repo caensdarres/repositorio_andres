@@ -8,7 +8,6 @@ package cl.entel.entity;
 
 /**
  *
- * @author chuaiquil
  */
 public class Equipo {
     
